@@ -1,4 +1,4 @@
-var basketBallScoresLoc = 'http://localhost:8001/scores';
+var basketBallScoresLoc = 'http://localhost:' + port + '/scores';
 var numberOfPolls = 0;
 var cavsId = 'cavsScore';
 var warriorsId = 'warsScore';
